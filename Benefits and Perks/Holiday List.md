@@ -1,4 +1,4 @@
-# Clef Observed Holiday List
+# Converge Observed Holiday List
 
 <table>
   <tr>
@@ -12,10 +12,6 @@
   <tr>
     <td>President’s Day</td>
     <td>February 16</td>
-  </tr>
-  <tr>
-    <td>Cesar Chavez Day</td>
-    <td>March 31</td>
   </tr>
   <tr>
     <td>Memorial Day</td>

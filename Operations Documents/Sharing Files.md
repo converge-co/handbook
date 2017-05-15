@@ -1,31 +1,48 @@
-# Sharing Files at Clef
+# Sharing Files at Converge
 
 ## Base Directories
 
-At the base of every member of the Clef team’s directory, there should be 6 directories:
+At the base of every member of the Converge team’s directory, there should be 6 directories:
 
-1. **[Clef Handbook](https://drive.google.com/open?id=0Bwj0rVaUQUXPNWI3SmlwMXRkTDQ&authuser=0)** -- a collection of documents about how we do things at Clef, which anyone can comment on
+1. **Dropbox (Converge)/** You should treat this as your main "Documents" folder and keep any save-able work in this.
+  * Converge Team Folder - We use this folder to share general documents, etc, on a temporary basis
+	* Ext Materials - These are 3rd party (e.g., FAA) materials we keep as a general library of knowledge
+	* Design - A folder with all app-related materials for UI/UX.
+	* Graphic Design - A folder w/ all of our graphic assets (logo, headshots, etc)
+	* Projects - This is a folder you should create in your work Dropbox folder, and keep any shared project folders in here
 
-2. **Active Projects** -- All project folders will be shared globally in this folder
 
-3. **Inactive Projects** -- projects which aren’t currently under development
+2. **repositories/** All Converge repositories should be checked out to this folder.
 
-4. **Resources** -- common resources which will be shared across projects -- like logo design resources, press clippings, etc.
+3. **other-repositories/** All 3rd party repositories should reside here
 
-5. **OKRs** -- everyone at Clef’s objectives and key results.
+## Tools for Collaboration
 
-6. **[Your Name]** -- every employee should have their personnel folder in the root directory with contracts, offer letters, etc. inside (shared only with you)
+### Versioning
 
-## Creating New Projects
+If we have to version documents (such as with Keynote), we use the designer major/minor version number approach. A document ends in `-MAJOR_NUMBER MINOR LETTER` (e.g., `-2B`).
 
-When a new project is started, a folder should be created with the format:
+* Major versions represent large, conceptual jumps
+* Minor versions represent variations or incremental improvements
 
-	**Project Name**
+If we need to add comments or tweaks to a specific version at the same time as others, we'll also append our initials to the name of a doc.
 
-in the Active Projects folder so that it will be shared with everyone else on the team.
+### Google Docs
 
-When the project is complete or paused, it should be moved to the Inactive Projects folder and labeled with the date when it was archived with the format:
+We use Google Docs for writing articles, blog posts, or meeting notes.
 
-**YYYY-MM Project Name**
+### Google Sheets
 
-The current structure doesn’t have a lot of built-in support for teams, since each project is autonomous. This will probably need to be fixed later as we grow and divide our functions into teams.
+Google Sheets is used in place of MS Excel
+
+### Keynote
+
+We use Keynote for presentations.
+
+### Sketch
+
+We use Sketch for all of our UI/UX design work
+
+### Omnigraffle
+
+We use Omnigraffle for workflows and diagrams

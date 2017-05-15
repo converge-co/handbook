@@ -1,4 +1,4 @@
-# Clef Core Values
+# Converge Core Values
 
 ## Be better today than yesterday.
 
@@ -14,4 +14,4 @@ Inequality and exclusion are the defaults of our industry. Without intentional e
 
 ## We succeed together when we trust each other.
 
-Trust is the currency that powers every interaction on teams. Only when we trust each other can we share the candid feedback and opinions that let us be creative and successful. We give our coworkers deep visibility into how our decisions are made and easy outlets to help them give input and guide our course. When we build trust through good communication, we create an environment for better communication in the future. 
+Trust is the currency that powers every interaction on teams. Only when we trust each other can we share the candid feedback and opinions that let us be creative and successful. We give our coworkers deep visibility into how our decisions are made and easy outlets to help them give input and guide our course. When we build trust through good communication, we create an environment for better communication in the future.
