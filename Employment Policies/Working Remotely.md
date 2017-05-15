@@ -42,7 +42,9 @@ The majority of policies that support remote work in Converge apply to everyone 
 
 If you're planning to work remotely for more than two consecutive days, or you're planning to work remotely from a place that's not your home (i.e. from a partner's home in a different city), you'll need to follow these additional guidelines. Even more than standard remote work, working remotely for an extended period of time is a privilege — it **will** require a large amount of extra work from you to make sure that the team is effective with you working remotely.
 
-Get Approval From your manager
+Being able to get outside and use our products is important for anyone at Converge to be effective (and productive) at their work. As such, we have a [list of criteria](https://docs.google.com/document/d/1js9geL5_sG6Hg5AGf0T54qKinTz1qr1Cqyc9ixUQ7nI/edit) that you must prove your remote work situation will satisfy so we can be assured that you have an environment where you can be successful.
+
+**Get Approval From your manager**
 
 You need your manager's approval before you can work remotely for an extended period of time. This check-in should happen at least two weeks in advance, before you make any travel arrangements, and you should come prepared with a plan for how you will handle the logistics and extra communication work involved in extended remote work. In order for an employee to work remotely for an extended period of time, they should have demonstrated in the past that they are effective working remotely and upholding their quality of work. If that's not the case, the manager can and should veto the option.
 
@@ -69,7 +71,7 @@ A non-exhaustive list of things to ensure are in order are:
 
 #### Co-working Space Subsidies
 
-Working remotely can add a financial burden on an individual. At the same time, it is also a privilege. We currently will not offer a subsidy for a coworking space while working remotely. Once Converge reaches profitability or raises its next major fundraising round, we will revisit this subsidy.
+Working remotely can add a financial burden on an individual. At the same time, it is also a privilege. We  will offer a subsidy for a coworking space while working remotely.
 
 ### Manager Retrospectives
 

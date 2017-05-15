@@ -42,13 +42,13 @@ Other notes:
 
 We typically use Google Docs for work on projects, or recording notes. Occasionally, we will use it to start a communication that we want to invite specific, point-by-point feedback on.
 
-### Friday #Updates
+### Weekly Check-Ins
 
-Every Friday, everyone on the team posts an update in the #daily-review channel in Slack that includes:
+Every week, we have two check-in meetings with the team. One checkin meeting is mid-week and intended to make sure that we're not letting anything slip, or running into major roadblocks we need to discuss as a team. The Friday check-in is meant to be time for reflection and improvement for the next week. During the Friday meeting, everyone should be prepared to succinctly discuss:
 
 * What they accomplished (and did not) this week
 * What they will accomplish next week
-* How they could have improved in the past week
+* How Converge could have improved in the past week
 
 This makes it easy to keep in the loop on projects and also keeps everyone at Converge accountable to everyone else to do their part.
 

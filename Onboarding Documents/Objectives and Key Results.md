@@ -1,6 +1,6 @@
 #Objectives and Key Results
 
-**TODO: DISCUSS**
+**Note: We are not using OKRs at the moment, this section exists only for discussion and feedback currently**
 
 Objectives and Key Results (OKRs) is a method for defining and keeping track of goals and their outcomes. They organize our goals by breaking them into high-level aspirations (objectives) and the measurable results that determine whether or not we’ve reached them (key results). OKRs are set at the company and individual level to help everyone see how their personal goals align with Converge’s goals, and also see how other people in the organization are working for the same outcomes from a different perspective.
 

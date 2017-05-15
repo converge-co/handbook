@@ -26,9 +26,6 @@ As Converge succeeds, we will be able to incorporate additional perks and benefi
     <td>Revenue Tier 4</td>
   </tr>
   <tr>
-    <td>Health Insurance</td>
-    <td>Revenue Tier 5</td>
-  <tr>
     <td>Continuing Education Benefits</td>
     <td>Revenue Tier 6</td>
   </tr>
