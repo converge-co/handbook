@@ -1,6 +1,6 @@
-***Engineering Practices Guide***
+# Engineering Practices Guide
 
-**Code:**
+## Code:
 * Everything in its own branch, please use issue numbers on the end of the branch name
 * Assume each branch might not get merged, so keep things modular so a release isn’t a big deal. There should be ~0 extra effort needed to make a release.
 * Push frequently (if it’s not pushed, it is dead to the company).
@@ -19,13 +19,13 @@
 * Where practical, write unit tests for behavior.
 * Where not immediately practical to implement, create tickets for unit testing.
 
-**Communication:**
+## Communication:
 * If you’re going to be messing with a server/resource that affects development, ask first to give people a chance to yell
 * If you’re going to be messing with a production resource, announce it, give an explanation, post updates, and say when it’s over
 * If you’re going to be online/offline doing something, please let people know as it’s happening
 * If a tool is broken, yell about it
 
-***Flight Testing:***
+## Flight Testing:
 * Test in sim first, then later fly hardware. If it didn’t work in simulation, it’s not worth your time and risk to fly it.
 * People safety first
 * Wear safety glasses.
