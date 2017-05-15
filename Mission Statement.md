@@ -1,3 +1,3 @@
 # Mission Statement
 
-__Kick ass and chew bubble gum__
+__Delight your users.__
