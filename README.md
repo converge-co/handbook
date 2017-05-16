@@ -54,6 +54,7 @@ CEO of Converge
 * [Hack Weeks](https://github.com/converge-co/handbook/blob/master/Operations%20Documents/Hack%20Weeks.md)
 * [Onboarding](https://github.com/converge-co/handbook/blob/master/Operations%20Documents/Onboarding.md)
 * [Sharing Files](https://github.com/converge-co/handbook/blob/master/Operations%20Documents/Sharing%20Files.md)
+* [Engineering Practices](https://github.com/converge-co/handbook/blob/master/Operations%20Documents/Engineering%20Practices.md)
 
 ## Benefits and Perks
 * [Health Care and Disability Insurance](https://github.com/converge-co/handbook/blob/master/Benefits%20and%20Perks/Healthcare%20and%20Disability%20Insurance.md)
