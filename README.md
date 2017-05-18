@@ -29,6 +29,7 @@ CEO of Converge
 * [Complaint Policy](https://github.com/converge-co/handbook/blob/master/Employment%20Policies/Complaint%20Policy.md)
 * [Drug and Alcohol Policy](https://github.com/converge-co/handbook/blob/master/Employment%20Policies/Drug%20and%20Alcohol%20Policy.md)
 * [Employee Privacy](https://github.com/converge-co/handbook/blob/master/Employment%20Policies/Employee%20Privacy.md)
+* [Security Policies](https://github.com/converge-co/handbook/blob/master/Employment%20Policies/Security%20Policies.md)
 * [Working Remotely](https://github.com/converge-co/handbook/blob/master/Employment%20Policies/Working%20Remotely.md)
 
 ## Hiring Documents
