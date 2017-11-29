@@ -18,10 +18,13 @@ When scheduling vacation, add it to your calendar for the entire time you're gon
 
 As the length of vacation increases, we increase the amount of time we give notice, as well as who we "clear" our vacation with.
 
-1 day: Let the team know a week in advance.
-2-5 days: Let your manager know at least two weeks in advance.
-1-2 weeks: Have a conversation with your manager at least one -> two months in advance about the exact dates. While unlikely, it may be that we will ask you to start your vacation earlier or later, for example due to your key role in a project that is starting.
->2 weeks: Have a conversation with one of the founders at least three months in advance.
+**1 day:** Let the team know a week in advance.
+
+**2-5 days:** Let your manager know at least two weeks in advance.
+
+**1-2 weeks:** Have a conversation with your manager at least one -> two months in advance about the exact dates. While unlikely, it may be that we will ask you to start your vacation earlier or later, for example due to your key role in a project that is starting.
+
+**>2 weeks:** Have a conversation with one of the founders at least three months in advance.
 
 ## Health Leave
 
